@@ -97,5 +97,5 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-![Github logo](logo.png)
-![Github logo](webtech_screenshot.png)
+![github logo](logo.png)
+![github logo](webtech screenshot.png)
